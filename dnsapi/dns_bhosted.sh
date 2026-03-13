@@ -15,7 +15,7 @@ Notes:
   - Record ID wordt uit addrecord XML response gehaald en gecached voor cleanup
 '
 
-BHOSTED_API_ROOT="https://webservices.bhosted.nl/dns"
+BHOSTED_API_ROOT="https://webservices.bhosted.com/dns"
 
 ############  Public functions #####################
 
